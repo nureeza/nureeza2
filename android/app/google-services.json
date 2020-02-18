@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "149905295718",
+    "firebase_url": "https://labtest-7ffe6.firebaseio.com",
+    "project_id": "labtest-7ffe6",
+    "storage_bucket": "labtest-7ffe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149905295718:android:19f382fc990962bc93a0a7",
+        "android_client_info": {
+          "package_name": "com.ree.nureeza2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149905295718-pppkv69h5u4h303gj9d4o441be4eibua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPmVS-Poi0Z4UjeHAC1vANe3wVJjLYakg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149905295718-pppkv69h5u4h303gj9d4o441be4eibua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
